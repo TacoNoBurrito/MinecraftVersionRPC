@@ -1,0 +1,8 @@
+cargo-features = ["edition2021"]
+[package]
+name = "minecraft_version_rpc"
+version = "1.0.0"
+edition = "2021"
+authors = ["Taylor R <dev.ttaco@gmail.com>"]
+[dependencies]
+discord-rpc-client = "^0.3.0"
